@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LabelAPI.iml" filepath="$PROJECT_DIR$/LabelAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabelAPI/LabelAPI-LabelAPI.iml" filepath="$PROJECT_DIR$/LabelAPI/LabelAPI-LabelAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LabelApiTest/LabelApiTest.iml" filepath="$PROJECT_DIR$/LabelApiTest/LabelApiTest.iml" />
+    </modules>
+  </component>
+</project>
+
